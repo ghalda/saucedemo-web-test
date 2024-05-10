@@ -1,4 +1,4 @@
-# Web Auotomation Testing : Sauce Demo
+# Web Automation Testing : Sauce Demo
 
 ## Table of Contents
 
@@ -12,11 +12,11 @@
 
 ## About
 
-[Sauce Demo](https://www.saucedemo.com/) is a Demo E-commerce Website provide by Sauce Labs.
+[Sauce Demo](https://www.saucedemo.com/) is a Demo E-commerce Website provided by Sauce Labs.
 
 ## Test Documentation
 
-Test Documentation Web Testing can access [here](https://docs.google.com/spreadsheets/d/1O8rQ9O5PxrCibYe6hEbxZwsxyD0ifsCLgsUr1eI447A/edit?usp=sharing)
+Test Documentation Web Testing can be accessed [here](https://docs.google.com/spreadsheets/d/1O8rQ9O5PxrCibYe6hEbxZwsxyD0ifsCLgsUr1eI447A/edit?usp=sharing)
 ![test-doc-sauce-demo-bbx.png](src%2Ftest%2Fresources%2Fassets%2Ftest-doc-sauce-demo-bbx.png)
 
 ## Test Report
