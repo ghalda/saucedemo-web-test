@@ -39,7 +39,7 @@ public class LoginPage {
         return userName.isDisplayed();
     }
 
-    public void errorLogin(String errorText){
+    public void errorMessage(String errorText){
         String err = "//h3[.='"+ errorText +"']";
         driver.findElement(By.xpath(err)).isDisplayed();
     }
