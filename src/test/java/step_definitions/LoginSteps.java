@@ -38,6 +38,6 @@ public class LoginSteps {
     @Then("User see error \"(.*)\"")
     public void errorLogin(String errorText){
         LoginPage loginPage = new LoginPage(webDriver);
-        loginPage.errorLogin(errorText);
+        loginPage.errorMessage(errorText);
     }
 }

@@ -1,4 +1,4 @@
-@Login
+@Login @WebsiteTest
   Feature: Login
 
     @PositiveCase
