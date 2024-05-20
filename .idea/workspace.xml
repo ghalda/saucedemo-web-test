@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="95be61c2-820a-4a07-908e-94cb21d4b8f7" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,10 +40,18 @@
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;D:/Alterra/Automation Testing/saucedemo-bbx&quot;,
+    &quot;last_opened_file_path&quot;: &quot;D:/Alterra/Automation Testing/saucedemo-bbx/src/test/resources/assets&quot;,
     &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.appearance&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Alterra\Automation Testing\saucedemo-bbx\src\test\resources\assets" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Alterra\Automation Testing\saucedemo-bbx\src\test\resources\assets" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="Scenario: Order Product with First Name length less than 3" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
